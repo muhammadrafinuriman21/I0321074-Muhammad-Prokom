@@ -1,0 +1,6 @@
+Nama : Rafi
+Umur : 19
+Alamat : Solo
+Nama: Iman
+Umur: 20
+Alamat: New York
